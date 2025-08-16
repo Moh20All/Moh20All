@@ -1,29 +1,30 @@
 # Moh Allali  
 
-### 👨‍💻 About Me  
+## About Me  
 I’m a developer passionate about building **web applications and desktop software**.  
-I work with a wide range of technologies including:  
-- **Java, JavaFX** (Gym CRM, Desktop apps)  
-- **React, React Native, Node.js, Express**  
-- **JavaScript, HTML, CSS, C, C++**  
-- **Firebase, SQL, MongoDB**  
-- Recently exploring **Python & Machine Learning**  
 
-### 🌱 What I’m Learning  
-- Deepening my skills in **Python for data analysis & ML**  
-- Improving **full-stack development** with React + Express  
-- Exploring **system administration** (Linux, TrueNAS, networking)  
+### 🛠 Tech Stack  
+- Java, JavaFX  
+- React, React Native, Node.js, Express  
+- JavaScript, HTML, CSS, C, C++  
+- Firebase, SQL, MongoDB  
+- Python (ML, Data Analysis)  
 
-### 🚀 Projects I’ve Worked On  
-- **Gym CRM** (JavaFX desktop app with dashboard, clients, subscriptions, expenses, etc.)  
-- **Scoreit** (student app to calculate GPA & averages)  
-- **Websites** (React + Node.js, with clean UI/UX)  
-- **Research & Lab Work** (Networking simulations, ML models, NS2/NS3 experiments)  
-
-### 📫 Contact  
-- GitHub: [@Moh20All](https://github.com/Moh20All)  
-- Email: baha.ssd  
+### 🚀 Projects  
+- **Gym CRM** → JavaFX desktop app (dashboard, clients, subscriptions, expenses)  
+- **Scoreit** → student GPA & average calculator app  
+- **Websites** → React + Node.js with clean UI/UX  
+- **Research Work** → networking (NS2/NS3) + ML models  
 
 ---
+
+## 📊 GitHub Stats  
+
+![Moh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moh20All&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moh20All&layout=compact&theme=tokyonight)  
+
+---
+
+📫 **Reach me:** baha.ssd  
 
 _"Always building, always learning."_  
